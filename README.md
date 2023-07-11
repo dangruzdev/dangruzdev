@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Dan and I'm learning React 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='20' height='20' />
+          
 
 <!--
 **dangruzdev/dangruzdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
